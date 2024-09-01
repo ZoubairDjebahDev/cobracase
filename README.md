@@ -3,3 +3,5 @@
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
 ![Project Image](public/images/thumbnail.png)
+
+v2
